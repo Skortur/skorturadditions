@@ -1,0 +1,11 @@
+{
+    "name": "skorturadditions",
+    "title": "Skortur Additions",
+    "version": "1.0.1",
+    "author": "Skortur Idrun",
+    "thumbnail_path": "thumbnail.png",
+    "description": "Adds complexity to recipes, adds new items. For now it only affects the recipe for Assembling Machine 1, will add more in future updates. Please check the mod portal for license",
+    "contact": "@SkorturIdrun on Twitter / X",
+    "factorio_version": "1.1",
+    "dependencies": ["base"]
+}
